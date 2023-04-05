@@ -200,4 +200,3 @@ public class FourierSeriesSquareWave extends Application{
         launch(args);
     }
 }
-// javac --module-path $env:PATH_TO_FX --add-modules=javafx.controls,javafx.fxml FourierSeriesSquareWave.java

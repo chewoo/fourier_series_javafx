@@ -1,5 +1,5 @@
 /*
- * A Fourier Series Demo for square wave 
+ * A Fourier Series Demo for triangle wave 
  * Made by Che Wu.
  */
 import java.util.ArrayList;
@@ -201,4 +201,3 @@ public class FourierSeriesTriangleWave extends Application{
         launch(args);
     }
 }
-// javac --module-path $env:PATH_TO_FX --add-modules=javafx.controls,javafx.fxml FourierSeriesSquareWave.java
